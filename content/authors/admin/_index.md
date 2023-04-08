@@ -4,11 +4,11 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Gene-environment interaction
-  - social science genetics
-  - genetic & social epidemiology
-  - polygenic risk score
+  - Social science genetics
+  - Genetic & social epidemiology
+  - Polygenic risk score
   - Alzheimer’s disease
-  - longitudinal data analyses
+  - Longitudinal data analyses
 social:
   - icon: envelope
     icon_pack: fas
