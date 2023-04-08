@@ -55,5 +55,5 @@ title: Yuexuan Xu 徐悦轩
 first_name: Alice
 email: ""
 ---
-Yuexuan Xu, MPP, is a Ph.D. candidate (genetic epidemiologist in training) from the University of Wisconsin - Madison. His major is population health sciences (previously called preventive medicine and community health) and his minor is Statistics, Quantitative Genetics, and Genetic Epidemiology. He received systematic training in policy analysis, health economics, statistical genetics, data science, and epidemiology methods.
+Yuexuan Xu, MPP, is a Ph.D. candidate (genetic epidemiologist in training) from the University of Wisconsin - Madison. His major is population health sciences (previously called preventive medicine and community health) and his minor is Statistics, Quantitative Genetics, and Genetic Epidemiology. He received systematic training in policy analysis, health economics, statistical genetics, data science, and epidemiology methods. His current work identifies how social and physical environment can modify the genetic predisposition to complex diseases, such as Alzheimer's disease.  
 {style="text-align: justify;"}
