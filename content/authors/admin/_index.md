@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Population Health Sciences
       institution: University of Wisconsin-Madison
-      year: ""
+      year: 2023
     - course: MPP in Health Economics
       institution: University of Southern California
       year: 2018
