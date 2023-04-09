@@ -23,20 +23,21 @@ publication_types:
   - "2"
   - "3"
 authors:
-  - Xu
-  - Y.
-  - Vasiljevic
-  - E.
-  - Deming
-  - Y.
-  - Jonaitis
-  - E. M.
-  - Koscik
-  - R. L.
-  - Van Hulle
-  - C. A.
-  - ... & Engelman
-  - C. D.
+  - Yuexuan Xu
+  - Eva Vasiljevic
+  - Yuetiva Deming
+  - Erin M Jonaitis
+  - Rebecca L Koscik
+  - Carol A Van Hulle
+  - Qiongshi Lu
+  - Margherita Carboni
+  - Gwendlyn Kollmorgen
+  - Norbert Wild
+  - Cynthia Carlsson
+  - Sterling C Johnson
+  - Henrik Zetterberg
+  - Kaj Blennow
+  - Corinne D Engelman
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
