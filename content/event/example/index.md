@@ -36,3 +36,4 @@ image:
 url_code: ""
 all_day: false
 ---
+I will give a talk at the UW-Madison Alzheimer's Disease Research Day on April 17, 2023. The name of my talk is "Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention"
