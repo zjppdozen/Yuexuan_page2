@@ -37,18 +37,16 @@ authors:
   - C. A.
   - ... & Engelman
   - C. D.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
 publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-publication: ""
-featured: true
-date: 2013-07-01T00:00:00Z
+publication: Journal of Alzheimer's Diseases
+featured: false
+date: 2023-04-09T01:42:37.343Z
 url_slides: ""
 title: Effect of Pathway-specific Polygenic Risk Scores for Alzheimer's Disease
   (AD) on Rate of Change in Cognitive Function and AD-related Biomarkers among
@@ -56,10 +54,10 @@ title: Effect of Pathway-specific Polygenic Risk Scores for Alzheimer's Disease
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
