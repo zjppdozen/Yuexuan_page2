@@ -41,7 +41,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Develop and validate a comprehensive genetic risk prediction model for AD that includes both common and low frequency/rare genetic variants.
-          company: PI: Corinne Engelman and Jason Fletcher
+          company: Corinne Engelman and Jason Fletcher
           company_url: ''
           #company_logo: org-gc
           location: University of Wisconsin-Madison
@@ -50,7 +50,7 @@ sections:
           description: |2-
               Dissertation work. Built a comprehensive genetic prediction model by integrating common and rare genetic variants. Demonstrated the feasibility of this framework to extend our ability to make genetic predictions in Alzheimer's.
         - title: Early life SES (critical period and self-reported SES) modifies genetic propensity of AD on cognition in older age
-          company: PI: Corinne Engelman and Jason Fletcher
+          company: Corinne Engelman and Jason Fletcher
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -58,7 +58,7 @@ sections:
           date_end: '2022-03-31'
           description: Dissertation work. Two-stage analyses. Using longitudinal data, the stage one analysis explored how self-reported socioeconomic status can modify the genetic propensity on later life cognition decline. The second stage two analysis leveraged a natural experimental framework. It examined whether and how economic conditions during the critical period can modify the genetic propensity of AD on later life cognition decline using longitudinal questionnaire data, state-level macroeconomic indicators, and geographical data.
         - title: Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention
-          company: PI: Corinne Engelman and Jason Fletcher
+          company: Corinne Engelman and Jason Fletcher
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -66,7 +66,7 @@ sections:
           date_end: '2022-06-30'
           description: Dissertation work. This work uses WRAP data to explore how the mid-to-late life modifiable behaviors individually and synergetically modify the genetic propensity of AD on the late-life cognitive decline during AD’s preclinical stage. The findings from this study have been replicated in the Health and Retirement Study.
         - title: Apolipoprotein E moderates the association between Non-APOE Polygenic Risk Score for Alzheimer’s Disease and Aging on Preclinical Cognitive Function
-          company: PI: Corinne Engelman
+          company: Corinne Engelman
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -74,7 +74,7 @@ sections:
           date_end: '2021-12-31'
           description: This work uses WRAP data to explore how the APOE ε4 carrier status modifies the effects of currently known genetic variants of AD on the late-life global and domain-specific cognitive decline during AD’s preclinical stage. The findings from this study have been replicated in the Health and Retirement Study.
         - title: Effect of Pathway-specific Polygenic Risk Scores for Alzheimer's Disease (AD) on Rate of Change in Cognitive Function and AD-related Biomarkers among Asymptomatic Individuals
-          company: PI: Corinne Engelman
+          company: Corinne Engelman
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -82,7 +82,7 @@ sections:
           date_end: '2021-06-30'
           description: This work uses WRAP data to explore the potential of pathway-specific PRS in predicting cognition and AD-related biomarkers during the preclinical stage of Alzheimer's after considering uncertainties in the gene-pathway assignment. Findings from this study have been replicated in W-ADRC.
         - title: Early Life Exposures, Gene-Environment Interactions, and Cognition in Old Age
-          company: PI: Jason Fletcher
+          company: Jason Fletcher
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -90,7 +90,7 @@ sections:
           date_end: '2021-01-01'
           description: This work used HRS data and instrumental variable approach to explore how early exposure to pneumonia morbidity and mortality can affect adult cognitive decline. We also investigated whether early-life exposure to pneumonia morbidity and mortality can modify the genetic propensity of cognition on later-life cognitive decline.
         - title: Bald is Beautiful?  Life course outcomes for individuals at high genetic risk for male pattern
-          company: PI: Jason Fletcher
+          company: Jason Fletcher
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
@@ -98,7 +98,7 @@ sections:
           date_end: '2019-09-01'
           description: Extensive literature shows that higher attractiveness is associated with socioeconomic success in the US and many other countries.  We combine this question with a novel use of genetic data to examine one dimension of attractiveness, male patterned baldness, and its associations with educational attainment, adult income, cognition, and adult neighborhood socioeconomic status in the UKBB by applying a sibling fixed analysis and also produce both “reduced form” and two-stage least square analyses.  
         - title: Childhood socioeconomic status moderates genetic predisposition for peak smoking
-          company: PI: Titus Galama
+          company: Titus Galama
           company_url: ''
           #company_logo: org-x
           location: University of Southern California
