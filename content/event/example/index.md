@@ -20,9 +20,7 @@ address:
   postcode: "94305"
   country: United States
 title: Alzheimer's Disease Research Day
-location: |-
-  Discovery Building, 
-  UW-Madison
+location: Discovery Building, UW-Madison
 links:
   - icon: ""
     icon_pack: null
