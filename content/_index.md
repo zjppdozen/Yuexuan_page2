@@ -56,7 +56,7 @@ sections:
           location: University of Wisconsin-Madison
           date_start: '2022-07-01'
           date_end: '2022-03-31'
-          description: Dissertation work. Two-stage analyses. Using longitudinal data, the stage one analysis explored how self-reported socioeconomic status can modify the genetic propensity on later life cognition decline. The second stage two analysis leveraged a natural experimental framework. It examined whether and how economic conditions during the critical period can modify the genetic propensity of AD on later life cognition decline using longitudinal questionnaire data, state-level macroeconomic indicators, and geographical data.
+          description: Dissertation work. Two-stage analyses. Using longitudinal data, the stage one analysis explored how self-reported socioeconomic status can modify the genetic propensity on later life cognition decline. The second stage analysis leveraged a natural experimental framework. It examined whether and how economic conditions during the critical period can modify the genetic propensity of AD on later life cognition decline using longitudinal questionnaire data, state-level macroeconomic administrative indicators, and geographical data.
         - title: Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention
           company: With Corinne Engelman and Jason Fletcher
           company_url: ''
@@ -94,8 +94,8 @@ sections:
           company_url: ''
           #company_logo: org-x
           location: University of Wisconsin-Madison
-          date_start: '2020-06-30'
-          date_end: '2019-09-01'
+          date_start: '2019-10-01'
+          date_end: '2020-06-30'
           description: Extensive literature shows that higher attractiveness is associated with socioeconomic success in the US and many other countries.  We combine this question with a novel use of genetic data to examine one dimension of attractiveness, male patterned baldness, and its associations with educational attainment, adult income, cognition, and adult neighborhood socioeconomic status in the UKBB by applying a sibling fixed analysis and also produce both “reduced form” and two-stage least square analyses.  
         - title: Childhood socioeconomic status moderates genetic predisposition for peak smoking
           company: With Titus Galama
