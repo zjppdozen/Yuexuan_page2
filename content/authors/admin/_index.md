@@ -30,7 +30,7 @@ social:
     link: https://www.linkedin.com/in/yuexuanxu
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/YUEXUAN_CV_04012023.pdf
 organizations:
   - name: University of Wisconsin-Madison
     url: http://www.wisc.edu/
