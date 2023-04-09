@@ -36,9 +36,8 @@ publication: Alzheimer's & Dementia
 featured: false
 date: 2023-04-09T01:47:46.652Z
 url_slides: ""
-title: Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal
-  Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for
-  Alzheimer’s Prevention
+title: Apolipoprotein E moderates the association between Non-APOE Polygenic
+  Risk Score for Alzheimer’s Disease and Aging on Preclinical Cognitive Function
 tags:
   - Source Themes
 projects: []
@@ -46,7 +45,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
