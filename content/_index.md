@@ -40,27 +40,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Develop and validate a comprehensive genetic risk prediction model for AD that includes both common and low frequency/rare genetic variants.
+          company: University of Wisconsin-Madison
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          #company_logo: org-gc
+          location: University of Wisconsin-Madison
+          date_start: '2023-04-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+              Dissertation work. Built a comprehensive genetic prediction model by integrating common and rare genetic variants. Demonstrated the feasibility of this framework to extend our ability to make genetic predictions in Alzheimer's.
+        - title: Early life SES, gene-environment interactions, and cognition in older age
           company: University X
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #company_logo: org-x
+          location: University of Wisconsin-Madison
+          date_start: '2022-07-01'
+          date_end: '2022-03-31'
+          description: Dissertation work. Two-stage analyses. Using longitudinal data, the stage one analysis explored how self-reported socioeconomic status can modify the genetic propensity on later life cognition decline. The second stage two analysis leveraged a natural experimental framework. It examined whether and how economic conditions during the critical period can modify the genetic propensity of AD on later life cognition decline using longitudinal questionnaire data, state-level macro economic indicators, and geographical data.
     design:
       columns: '2'
 #  - block: accomplishments
