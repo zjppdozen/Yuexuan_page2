@@ -46,7 +46,7 @@ publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Journal of Alzheimer's Diseases
-featured: false
+featured: true
 date: 2023-04-09T01:42:37.343Z
 url_slides: ""
 title: Effect of Pathway-specific Polygenic Risk Scores for Alzheimer's Disease
