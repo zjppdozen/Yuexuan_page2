@@ -33,7 +33,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: Alzheimer's & Dementia
-featured: false
+featured: true
 date: 2023-04-09T01:47:46.652Z
 url_slides: ""
 title: Apolipoprotein E moderates the association between Non-APOE Polygenic
