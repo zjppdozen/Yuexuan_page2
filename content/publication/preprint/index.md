@@ -29,7 +29,7 @@ publication_short: ""
 url_source: "#"
 url_video: "#"
 publication: JAMA Neurology
-featured: true
+featured: false
 date: 2023-04-09T01:53:37.864Z
 url_slides: ""
 title: Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal
