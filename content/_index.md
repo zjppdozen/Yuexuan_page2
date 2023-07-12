@@ -104,7 +104,7 @@ sections:
           location: University of Southern California
           date_start: '2019-01-01'
           date_end: '2019-06-30'
-          description: Smoking is recognized as the primary cause of preventable disease and mortality in the United States, with its prevalence being significantly influenced by both genetic predisposition and childhood socioeconomic status (SES). In this study, we leverage well-established genetic variants that demonstrate credible and robust associations with smoking to construct polygenic risk scores (PGS). The aim is to assess whether childhood SES acts as a mediator in the relationship between genetic risk and the determination of peak-cigarette consumption during adulthood. By investigating this association, we seek to enhance our understanding of the intricate interplay between genetics, childhood SES, and smoking behavior.  
+          description: Smoking is recognized as the primary cause of preventable disease and mortality in the United States, with its prevalence being significantly influenced by both genetic predisposition and childhood socioeconomic status (SES). In this study, we leverage well-established genetic variants that demonstrate credible and robust associations with smoking to construct polygenic risk scores (PGS). The aim is to assess whether childhood SES acts as a mediator in the relationship between genetic risk and the determination of peak-cigarette consumption during adulthood. By investigating this association, we seek to enhance our understanding of the intricate interplay between genetics, childhood SES, and smoking behavior.
     design:
       columns: '2'
 #  - block: accomplishments
